@@ -68,3 +68,6 @@ Lets Explore and analyze the Data Set and find some insights(Few Questions Liste
 ![image](https://github.com/surya333356/Capstone-Project-1_AirBnBb-Bookings-Analysis/assets/171321317/6f07a67c-8962-406a-8834-8799668cc658)
 
 
+![image](https://github.com/surya333356/Capstone-Project-1_AirBnBb-Bookings-Analysis/assets/171321317/8457f4b6-3789-4db0-8272-053bda8a1993)
+
+
