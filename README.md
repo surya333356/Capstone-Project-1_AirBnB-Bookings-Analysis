@@ -56,14 +56,15 @@ Lets Explore and analyze the Data Set and find some insights(Few Questions Liste
 
 ![image](https://github.com/surya333356/Capstone-Project-1_AirBnBb-Bookings-Analysis/assets/171321317/d08f6718-0256-437e-9ca8-d449610dd35f)
 
-![image](https://github.com/surya333356/Capstone-Project-1_AirBnBb-Bookings-Analysis/assets/171321317/d63bc2b8-08da-4ac3-aef3-e0330a262a4f)
+![image](https://github.com/surya333356/Capstone-Project-1_AirBnBb-Bookings-Analysis/assets/171321317/147bb79f-b48e-444b-bd9a-173292dda0a3)
+
+![image](https://github.com/surya333356/Capstone-Project-1_AirBnBb-Bookings-Analysis/assets/171321317/719382c2-a190-4004-8bf0-a4bb69ba352c)
+
+![image](https://github.com/surya333356/Capstone-Project-1_AirBnBb-Bookings-Analysis/assets/171321317/a35a64b7-4b9d-4307-b33f-5995bac90011)
+
+![image](https://github.com/surya333356/Capstone-Project-1_AirBnBb-Bookings-Analysis/assets/171321317/6d11da3c-85c3-43a6-ad9d-4342e3c8bcae)
 
 
-![image](https://github.com/surya333356/Capstone-Project-1_AirBnBb-Bookings-Analysis/assets/171321317/be201c2d-4f45-4310-a5c4-614b2a45ad07)
-
-![image](https://github.com/surya333356/Capstone-Project-1_AirBnBb-Bookings-Analysis/assets/171321317/77d48d96-06d4-4591-b1b7-34e75036c1d6)
-
-![image](https://github.com/surya333356/Capstone-Project-1_AirBnBb-Bookings-Analysis/assets/171321317/70c85369-8f6b-40e2-a134-5771398ef39e)
-
+![image](https://github.com/surya333356/Capstone-Project-1_AirBnBb-Bookings-Analysis/assets/171321317/6f07a67c-8962-406a-8834-8799668cc658)
 
 
