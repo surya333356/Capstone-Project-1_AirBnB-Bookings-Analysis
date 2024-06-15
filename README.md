@@ -2,7 +2,7 @@
 Project Type - EDA
 Contribution - Individual-SURYA SINGH
 
-Define Your Business Objective:-
+# Define Your Business Objective:-
 
 The business objective for an Airbnb project centers on enhancing the platform's value proposition for both hosts and guests, ensuring a seamless, secure, and enjoyable experience. This objective can be broken down into several key goals, which include increasing user engagement, expanding the user base, optimizing pricing strategies, improving the overall user experience, and ensuring safety and compliance.
 
@@ -26,13 +26,13 @@ Understanding variables.
 
 ![image](https://github.com/surya333356/Capstone-Project-1_AirBnBb-Bookings-Analysis/assets/171321317/feb84554-a073-4fa9-9cf7-100f0a7d137a)
 
-Project Summary -
+# Project Summary -
 
 Since 2008, guests and hosts have used Airbnb to expand on travelling possibilities and present a more unique, personalised way of experiencing the world. Today, Airbnb became one of a kind service that is used and recognized by the whole world. Data analysis on millions of listings provided through Airbnb is a crucial factor for the company. These millions of listings generate a lot of data - data that can be analysed and used for security, business decisions, understanding of customers' and providers' (hosts) behaviour and performance on the platform, guiding marketing initiatives, implementation of innovative additional services and much more.
 
 This dataset has around 49,000 observations in it with 16 columns and it is a mix of categorical and numeric values.
 
-Problem Statement
+# Problem Statement
 
 Lets Explore and analyze the Data Set and find some insights(Few Questions Listed Below)
 
