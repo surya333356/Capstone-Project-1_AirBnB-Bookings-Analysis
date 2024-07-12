@@ -54,22 +54,22 @@ Lets Explore and analyze the Data Set and find some insights(Few Questions Liste
 
 9.What is the room count in overall NYC according to the listing of room types?
 
-![image](https://github.com/surya333356/Capstone-Project-1_AirBnBb-Bookings-Analysis/assets/171321317/d08f6718-0256-437e-9ca8-d449610dd35f)
+![image](https://github.com/user-attachments/assets/cc3d809f-32c0-4e25-a064-38f314c8c74b)
 
-![image](https://github.com/surya333356/Capstone-Project-1_AirBnBb-Bookings-Analysis/assets/171321317/e628bd1c-ff88-4c14-a526-0a7d04eaa58c)
+![image](https://github.com/user-attachments/assets/1e2c2539-c74d-434f-8969-bbe3143d3ff0)
 
-![image](https://github.com/surya333356/Capstone-Project-1_AirBnBb-Bookings-Analysis/assets/171321317/147bb79f-b48e-444b-bd9a-173292dda0a3)
+![image](https://github.com/user-attachments/assets/5063d29e-99f8-44f7-ba08-faf48c6be84a)
 
-![image](https://github.com/surya333356/Capstone-Project-1_AirBnBb-Bookings-Analysis/assets/171321317/719382c2-a190-4004-8bf0-a4bb69ba352c)
+![image](https://github.com/user-attachments/assets/2c81a802-57d8-429d-b085-11ac9bb7ed29)
 
-![image](https://github.com/surya333356/Capstone-Project-1_AirBnBb-Bookings-Analysis/assets/171321317/a35a64b7-4b9d-4307-b33f-5995bac90011)
+![image](https://github.com/user-attachments/assets/e253c25b-c4cb-49cb-b0ad-ca61cad1bcf0)
 
-![image](https://github.com/surya333356/Capstone-Project-1_AirBnBb-Bookings-Analysis/assets/171321317/6d11da3c-85c3-43a6-ad9d-4342e3c8bcae)
-
-
-![image](https://github.com/surya333356/Capstone-Project-1_AirBnBb-Bookings-Analysis/assets/171321317/6f07a67c-8962-406a-8834-8799668cc658)
+![image](https://github.com/user-attachments/assets/9fbc7174-5fd9-459c-bd35-86c3897f54ba)
 
 
-![image](https://github.com/surya333356/Capstone-Project-1_AirBnBb-Bookings-Analysis/assets/171321317/8457f4b6-3789-4db0-8272-053bda8a1993)
+
+
+
+
 
 
