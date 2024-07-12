@@ -1,4 +1,4 @@
-# Capstone-Project-1_AirBnBb-Bookings-Analysis
+# Capstone-Project-1_AirBnB-Bookings-Analysis
 Project Type - EDA
 Contribution - Individual-SURYA SINGH
 
