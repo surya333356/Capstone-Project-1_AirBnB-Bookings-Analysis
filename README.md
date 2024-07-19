@@ -54,17 +54,7 @@ Lets Explore and analyze the Data Set and find some insights(Few Questions Liste
 
 9.What is the room count in overall NYC according to the listing of room types?
 
-![image](https://github.com/user-attachments/assets/cc3d809f-32c0-4e25-a064-38f314c8c74b)
 
-![image](https://github.com/user-attachments/assets/1e2c2539-c74d-434f-8969-bbe3143d3ff0)
-
-![image](https://github.com/user-attachments/assets/5063d29e-99f8-44f7-ba08-faf48c6be84a)
-
-![image](https://github.com/user-attachments/assets/2c81a802-57d8-429d-b085-11ac9bb7ed29)
-
-![image](https://github.com/user-attachments/assets/e253c25b-c4cb-49cb-b0ad-ca61cad1bcf0)
-
-![image](https://github.com/user-attachments/assets/9fbc7174-5fd9-459c-bd35-86c3897f54ba)
 
 
 
