@@ -52,8 +52,11 @@ Lets Explore and analyze the Data Set and find some insights(Few Questions Liste
 
 8.What is the correlation between different varriables?
 
-9.What is the room count in overall NYC according to the listing of room types?
+# Airbnb Dashboard using Tableau
 
+![image](https://github.com/user-attachments/assets/81d4f503-f0f8-4853-8327-d7047b600d11)
+
+# EDA Charts
 
 ![image](https://github.com/user-attachments/assets/96c37289-2dec-4461-aeb1-e9c3429fe5ed)
 
