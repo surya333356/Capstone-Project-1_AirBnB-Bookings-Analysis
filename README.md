@@ -1,4 +1,7 @@
 # Capstone-Project-1_AirBnB-Bookings-Analysis
+
+![image](https://github.com/user-attachments/assets/3fabc78e-aef7-416a-8edf-827d8d9d0471)
+
 Project Type - EDA
 Contribution - Individual-SURYA SINGH
 
@@ -51,6 +54,33 @@ Lets Explore and analyze the Data Set and find some insights(Few Questions Liste
 7.Is there any traffic difference among different areas and what could be the reason for it?
 
 8.What is the correlation between different varriables?
+
+# Conclusion
+
+1. Private room is the most preferred room type with 629 reviews of the total Reviews, indicating that Private room type are the most popular or commonly reviewed type accommodation among the options listed.
+2. We find that Host name Sonder(NYC) has listed highest number of listings in Manhattan followed by Blueground and maximum property is listed in Manhattan.
+
+3. We found that Entire home/apt is the highest number of room types overall and prices are high in the Brooklyn and Manhattan for entire home/apt.
+
+4. From above visualization we can say that most number of people like to stay in less price and their reviews are higher in those areas.
+
+5. We have found busiest hosts:- Dona, Jj,Maya, Carol, Danielle Because these hosts listed their room types as private room which is preferred by most number of people and also higher reviews.
+
+6. Now we have seen that 10 Hosts who are charging maximum price :- Erin,Jelena,Kathrine,Olson,Matt,Amy,Rum,Jessica,Sally,Jack
+
+Max Price is 10000 USD
+
+7. From the visualization we found that most of the people likely to stay at Entire home and Private room which are present in Manhattan,Brooklyn and Queens and also visitors reffering stay in room which listing price is less.
+
+8. We have seen all the correlation between different variables.
+
+# Airbnb Dashboard using Power Bi
+
+![image](https://github.com/user-attachments/assets/d57c7c2b-5785-4ea8-bf92-31d6cae48c7b)
+
+![image](https://github.com/user-attachments/assets/2a68a1e1-fd74-42bf-8b2f-ea1440de7ae7)
+
+![image](https://github.com/user-attachments/assets/f0482c6c-f61e-42f8-af37-79b887c2f96f)
 
 # Airbnb Dashboard using Tableau
 
