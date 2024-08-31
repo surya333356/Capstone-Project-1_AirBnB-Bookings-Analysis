@@ -1,6 +1,5 @@
 # Capstone-Project-1_AirBnB-Bookings-Analysis
-
-![image](https://github.com/user-attachments/assets/3fabc78e-aef7-416a-8edf-827d8d9d0471)
+![image](https://github.com/user-attachments/assets/0af9d6fd-a813-4181-ac43-fc14d53490e5)
 
 Project Type - EDA
 Contribution - Individual-SURYA SINGH
