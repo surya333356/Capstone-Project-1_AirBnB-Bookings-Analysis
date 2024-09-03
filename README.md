@@ -54,6 +54,36 @@ Lets Explore and analyze the Data Set and find some insights(Few Questions Liste
 
 8.What is the correlation between different varriables?
 
+# Solution to Business Objective
+
+## What do you suggest the client to achieve Business Objective ?
+
+1. Focus on Private Rooms Reasoning: Private rooms have the highest number of reviews, indicating strong demand.
+
+Action: Increase the inventory of private rooms or optimize existing private room listings to attract more guests.
+
+2. Optimize Entire Home/Apt Listings Reasoning: Entire homes/apartments also have maximum bookings and a significant number of reviews, indicating good demand but less than private rooms.
+
+Action: Highlight unique features, privacy, and the convenience of having an entire space to oneself. Consider competitive pricing and flexible check-in/check-out options to attract more bookings.
+
+3. Reassess Shared Room Offerings Reasoning: Shared rooms have the lowest number of reviews, suggesting lower demand.
+
+Action: Evaluate the profitability of shared room listings. Consider if they are worth maintaining or if resources could be better allocated to other room types. If continuing with shared rooms, consider enhancing the value proposition, such as improved privacy measures, better amenities, or lower prices.
+
+4. Enhance Customer Experience Action:
+
+Improve facilities: Ensure that all types of accommodations have high-quality facilities that meet guest expectations.
+
+Personal Touch: Provide personalized touches like welcome packages, local guides, or special offers for repeat guests.
+
+Responsive Communication: Maintain excellent communication with guests before, during, and after their stay to enhance their experience and encourage positive reviews.
+
+5.Reviews for Marketing Action:
+
+Showcase Positive Reviews: Highlight positive reviews in listings to build trust and attract more bookings.
+
+Address Feedback: Respond to negative feedback constructively and implement improvements based on guest suggestions.
+
 # Conclusion
 
 1. Private room is the most preferred room type with 629 reviews of the total Reviews, indicating that Private room type are the most popular or commonly reviewed type accommodation among the options listed.
